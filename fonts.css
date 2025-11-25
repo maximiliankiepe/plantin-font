@@ -7,7 +7,7 @@
 
 @font-face {
   font-family: 'Plantin';
-  src: url('Plantin-LightItalic.otf') format('opentype');
+  src: url('Plantin-LightItalic.woff2') format('woff2');
   font-weight: 300;
   font-style: italic;
 }
